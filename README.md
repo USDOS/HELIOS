@@ -1,16 +1,14 @@
 # HOT EXTRACTION AND LAUNCH INDIVIDUALIZED OPERATOR SYSTEM (HELIOS)
 
 ## 1. Helicopter System
-### 1.1 Deployment Panel: 
+ ### 1.1 Deployment Panel: 
+  #### 1.1.1 Material Composition and Treatment
+   ##### 1.1.1.1 Titanium-Aluminum Alloy: 
+   - **Composition:** Generally comprised of 90% titanium, 6% aluminum, and 4% vanadium. This combination offers a balance between strength and weight.
+   - **Properties:** The alloy is known for its high tensile strength, toughness, and its excellent corrosion resistance.
+   - **Surface Treatment:** A protective coating of a ceramic-based material can be applied to further enhance its resistance to extreme environmental conditions. This also reduces the chances of any form of oxidation or corrosion over prolonged exposure.
 
-#### 1.1.1 Material Composition and Treatment
-
-* **Titanium-Aluminum Alloy:** 
-   * **Composition:** Generally comprised of 90% titanium, 6% aluminum, and 4% vanadium. This combination offers a balance between strength and weight.
-   * **Properties:** The alloy is known for its high tensile strength, toughness, and its excellent corrosion resistance.
-   * **Surface Treatment:** A protective coating of a ceramic-based material can be applied to further enhance its resistance to extreme environmental conditions. This also reduces the chances of any form of oxidation or corrosion over prolonged exposure.
-
-**1.1.2 Hydraulic Sliding Mechanism** 
+#### 1.1.2 Hydraulic Sliding Mechanism
 
 * **Design:** The mechanism should use a dual-piston design. This ensures that if one piston fails, the other can still operate, offering redundancy.
   
@@ -18,7 +16,7 @@
   
 * **Safety Valves:** In the case of a pressure surge, safety valves release excess pressure, preventing any damage to the hydraulic system.
 
-**1.1.3 Safety Lock**
+#### 1.1.3 Safety Lock
 
 * **Dual-Locking Mechanism:** 
    * **Primary Lock:** A mechanical latch that ensures the panel closes securely.
@@ -26,7 +24,7 @@
 
 * **Lock Sensors:** Sensors continuously monitor the integrity of the locks. Any sign of lock disengagement immediately alerts the pilot.
 
-**1.1.4 Maintenance Indicator System**
+#### 1.1.4 Maintenance Indicator System
 
 * **Sensor Integration:** A combination of piezoelectric sensors and strain gauges continuously monitor the structural integrity of the panel. They detect any micro-fractures or deformities that might compromise the panel's function.
   
@@ -37,9 +35,9 @@
    * **Auditory Alert:** An alarm sounds, notifying the pilot of the specific issue.
    * **Maintenance Log:** The system automatically logs the fault for maintenance crews to address during post-flight checks.
 
-**1.2 Recovery Units**
+### 1.2 Recovery Units
 
-**1.2.1 Recovery Unit Design and Structure**
+#### 1.2.1 Recovery Unit Design and Structure
 
 * **Unit Framework:** 
   * **Material:** Crafted from a composite blend of carbon fiber and kevlar. This mix ensures lightweight properties while maintaining the strength needed for operations.
@@ -49,7 +47,7 @@
   * **Motor-Driven Spool:** A high-torque electric motor winds the wire panels into the unit. It must have the capability to handle sudden loads and stresses, especially during rapid extractions.
   * **Auto-Tension System:** Ensures that the wire remains taut during personnel retrieval, minimizing chances of tangling or snagging.
 
-**1.2.2 Metal Wire Panels**
+#### 1.2.2 Metal Wire Panels
 
 * **Material:** Aircraft-grade stainless steel, known for its excellent strength-to-weight ratio and resistance to corrosion.
   
@@ -57,7 +55,7 @@
   
 * **Coating:** A thin layer of non-reflective, anti-abrasive material ensures the wire remains stealthy and reduces wear and tear during operations.
 
-**1.2.3 Snap-and-Lock Repelling Clips**
+#### 1.2.3 Snap-and-Lock Repelling Clips
 
 * **Design:** 
   * **Quick Connect:** Designed for rapid attachment even under stressful conditions.
@@ -65,7 +63,7 @@
 
 * **Material:** Constructed from a hardened titanium alloy to ensure lightweight properties, superior strength, and resistance to environmental factors.
 
-**1.2.4 Protective Housing**
+#### 1.2.4 Protective Housing
 
 * **Material:** Polyurethane composite for its impact resistance and lightweight properties.
   
@@ -75,19 +73,16 @@
 
 
 
-**1.3 Computerized Tension Management System (CTMS)**
+### 1.3 Computerized Tension Management System (CTMS)
 
-
-
-**1.3.1 System Overview**
+#### 1.3.1 System Overview
 
 * **Primary Function:** To dynamically regulate and manage the tension in the wire system, ensuring smooth transitions during acceleration, deceleration, and when hoisting personnel.
 
 * **Integration:** The CTMS is integrated into the helicopter's onboard computer, allowing it to make real-time decisions based on the aircraft's movements, external factors like wind speed and direction, and the weight and position of the suspended personnel.
 
 
-
-**1.3.2 Sensor Integration**
+#### 1.3.2 Sensor Integration
 
 * **Load Sensors:** Strategically placed throughout the wire panels, these sensors continuously measure the load on each wire, helping the CTMS make adjustments.
 
@@ -95,17 +90,13 @@
 
 * **Wind Sensors:** Positioned on the aircraft's exterior, these detect wind speed and direction, feeding this information to the CTMS to help counteract external forces.
 
-
-
-**1.3.3 Adaptive Tension Regulation**
+#### 1.3.3 Adaptive Tension Regulation**
 
 * **Dynamic Tension Adjusters:** Using data from the integrated sensors, these adjusters change the tension in real-time to minimize jarring, swinging, or spinning of personnel.
 
 * **Safety Protocols:** The system is programmed to never reduce tension beyond a safe threshold, ensuring that the personnel remain securely attached at all times.
 
-
-
-**1.3.4 System Interface**
+#### 1.3.4 System Interface**
 
 * **Pilot's Dashboard:** The CTMS provides the pilot with real-time feedback on the system's status. Visual indicators show tension levels, any abnormalities, and the status of each suspended individual.
 
